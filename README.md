@@ -34,7 +34,6 @@ All problem sets I completed in Harvard’s CS50P course.
 | `plates/`         | Vanity Plates validator + tests                  |
 | `playback/`       | Replace spaces with ...                          |
 | `professor/`      | Professor’s random walk speed calculation        |
-| `project/`        | Final Project (fully original)                   |
 | `response/`       | Validate HTTP response (practice)                |
 | `scourgify/`      | Clean up CSV data (before.csv → after.csv)       |
 | `seasons/`        | Birthday to words using inflect + tests          |
